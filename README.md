@@ -27,3 +27,14 @@ Rent Connect là ứng dụng Flutter giúp người dùng tìm kiếm và quả
 
 ## Cài đặt (Installation)
 
+---
+
+## Business Analysis Documentation
+
+Dự án có bộ tài liệu BA trong thư mục [`docs/ba`](docs/ba):
+
+- SRS overview
+- Use case specification
+- User story và acceptance criteria
+- Data model và validation rules
+- Activity diagrams bằng file `.drawio`
